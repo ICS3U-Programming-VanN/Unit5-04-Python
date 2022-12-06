@@ -7,6 +7,7 @@
 # The program will then calculate it and display it to the user
 
 
+# This
 def calculate(sign, first_number, second_number):
     # Declared Variable
     calculation = 0
